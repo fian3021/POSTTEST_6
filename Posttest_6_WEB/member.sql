@@ -43,7 +43,7 @@ CREATE TABLE `member_istorii` (
 --
 
 INSERT INTO `member_istorii` (`id`, `Email`, `Nama`, `Usia`, `Gender`, `Genre_Favorit`, `Tanggal_Join`, `Foto_Profil`) VALUES
-(55, 'alfiananur3021@gmail.com', 'Al', 19, 'Wanita', 'Romantis,Horor,Komedi,Petualangan', '27/10/2022 22:03', 'Al.jpeg'),
+(55, 'alfiananur3021@gmail.com', 'Al Fiana Nur', 19, 'Wanita', 'Romantis,Horor,Komedi,Petualangan', '27/10/2022 22:03', 'Al Fiana Nur.jpeg'),
 (56, 'shafiraoctfa@gmail.com', 'Shafira Octafia', 19, 'Wanita', 'Horor,Misteri', '27/10/2022 22:05', 'Shafira Octafia.jpeg'),
 (57, 'alfian@gmail.com', 'Al Fian', 20, 'Pria', 'Horor,Sejarah,Misteri,Petualangan', '27/10/2022 22:06', 'Al Fian.jpg'),
 (58, 'safasephia@gmail.com', 'Adlina Safa', 20, 'Wanita', 'Romantis,Horor,Misteri', '27/10/2022 22:07', 'Adlina Safa.jpeg'),
